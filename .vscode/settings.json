@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "editor.fontSize": 16,
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
